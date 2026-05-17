@@ -1,0 +1,22 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+# Project specific exclusions
+msedgedriver.exe
+mssql-jdbc_auth-*.dll
+*.html
+
+# OS generated files
+.DS_Store
+Thumbs.db
